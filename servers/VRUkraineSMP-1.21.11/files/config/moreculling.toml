@@ -1,0 +1,36 @@
+version = 1
+enableSodiumMenu = true
+dontCull = []
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 120
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 8.0
+paintingCulling = true
+leavesCullingMode = "DEFAULT"
+leavesCullingAmount = 2
+includeMangroveRoots = false
+endGatewayCulling = false
+beaconBeamCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+lootr = true
+mcwdoors = true
+mcwfences = true
+farmersdelight = true
+mcwpaths = true
+mcwroofs = true
+mcwfurnitures = true
+mcwbridges = true
+mcwlights = true
+mcwwindows = true
+mcwtrpdoors = true
+mcwstairs = true
+minecraft = true
+rechiseled = true

@@ -1,0 +1,2291 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "VR UA",
+    "smallImageText": "VR Ukraine",
+    "smallImageKey": "seal-circle"
+  },
+  "servers": [
+    {
+      "id": "VRUkraineSMP-1.21.11",
+      "name": "VRUkraineSMP",
+      "description": "VRUkraineSMP Forever Server",
+      "icon": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/VRUkraineSMP-1.21.11.jpg",
+      "version": "1.0.0",
+      "address": "mc.vr-ukraine.com:25809",
+      "minecraftVersion": "1.21.11",
+      "discord": {
+        "shortId": "VRUkraine",
+        "largeImageText": "VR Ukraine",
+        "largeImageKey": "seal-circle"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.0",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1967503,
+            "MD5": "26cb254d4d4a158bc3222a6ce6f1af53",
+            "url": "https://github.com/squirrel-vr/repo/lib/net/fabricmc/fabric-loader/0.19.0/fabric-loader-0.19.0.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.11-fabric-0.19.0",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2850,
+                "MD5": "7a9e8e4dc6695fe5209b917bb93d0316",
+                "url": "https://github.com/squirrel-vr/repo/versions/1.21.11-fabric-0.19.0/1.21.11-fabric-0.19.0.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://github.com/squirrel-vr/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://github.com/squirrel-vr/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://github.com/squirrel-vr/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://github.com/squirrel-vr/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://github.com/squirrel-vr/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.1+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1540025,
+                "MD5": "029143df2fceae74b8d606fba0b5605b",
+                "url": "https://github.com/squirrel-vr/repo/lib/net/fabricmc/sponge-mixin/0.17.1+mixin.0.8.7/sponge-mixin-0.17.1+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.11",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 797685,
+                "MD5": "54a87ea75e373bc39b2d36df201231ea",
+                "url": "https://github.com/squirrel-vr/repo/lib/net/fabricmc/intermediary/1.21.11/intermediary-1.21.11.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "alternate.current:alternate-current:1.9.0@jar",
+          "name": "Alternate Current",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52557,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/alternate-current-mc1.21.11-1.9.0.jar",
+            "MD5": "ecf33cf086d3858e7ed281a629f21492"
+          }
+        },
+        {
+          "id": "team.creative:ambientsounds:6.3.5@jar",
+          "name": "AmbientSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84821614,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar",
+            "MD5": "74e1d8065ebe800761812329cf1398ef"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:3.0.8+mc1.21.11@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 180107,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/appleskin-fabric-mc1.21.11-3.0.8.jar",
+            "MD5": "e725606e8b0ae1c83ade7cfd0aea9e73"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:19.0.1@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 568474,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/architectury-19.0.1-fabric.jar",
+            "MD5": "f5adfe74f690e3cd014f1c95129a6ed4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:badoptimizations:2.4.1@jar",
+          "name": "BadOptimizations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 269545,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/BadOptimizations-2.4.1-1.21.11.jar",
+            "MD5": "6d595f1312c0774158eefcaa06612286"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:21.11.9@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 873056,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/balm-fabric-1.21.11-21.11.9.jar",
+            "MD5": "f0078c1ac352a6ccf474402f803f6e42"
+          }
+        },
+        {
+          "id": "com.vladmarica:betterpingdisplay:1.2.0@jar",
+          "name": "Better Ping Display",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21805,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/better-ping-display-fabric-1.21.11-1.2.0.jar",
+            "MD5": "00348941b9176356f510eec9a46c0a07"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:1.2.1@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 92750,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/chat_heads-1.2.1-fabric-1.21.11.jar",
+            "MD5": "45d8503701de058a01930e7778b3fe7a"
+          }
+        },
+        {
+          "id": "net.redstonegames:chefsdelight:1.0.5-fabric-1.21.11@jar",
+          "name": "Chef's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 110671,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/chefs-delight-1.0.5-fabric-1.21.11.jar",
+            "MD5": "79f437c4aae679b2bec5e9c39bbf58ce"
+          }
+        },
+        {
+          "id": "org.popcraft:chunky:1.4.55@jar",
+          "name": "Chunky",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 355288,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/Chunky-Fabric-1.4.55.jar",
+            "MD5": "76c7e0e9b95ff37820729a2653018627"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:21.11.153@jar",
+          "name": "Cloth Config v20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1148427,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/cloth-config-21.11.153-fabric.jar",
+            "MD5": "9de770889c2b19445f57f881e4f7d6f8"
+          }
+        },
+        {
+          "id": "generated.fabricmod:clumps:29.0.0.1@jar",
+          "name": "Clumps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20355,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/Clumps-fabric-1.21.11-29.0.0.1.jar",
+            "MD5": "ed4cfd8170d5eb8da20f424c8f1bd2cb"
+          }
+        },
+        {
+          "id": "com.natamus:collective:8.22@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 959351,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/collective-1.21.11-8.22.jar",
+            "MD5": "8a21603e3dbbd4f6ab0a640b146664e3"
+          }
+        },
+        {
+          "id": "com.github.legoatoom:connectiblechains:2.5.7+1.21.11@jar",
+          "name": "Connectible Chains",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 553583,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/connectiblechains-2.5.7+1.21.11.jar",
+            "MD5": "8174bc9e6f0047d4155ad309fc25a004"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.1-beta.1+1.21.11@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 997125,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/continuity-3.0.1-beta.1+1.21.11.jar",
+            "MD5": "d0011d547cfb5428b25071a2b518a776"
+          }
+        },
+        {
+          "id": "generated.fabricmod:controlling:29.0.1@jar",
+          "name": "Controlling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83259,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/Controlling-fabric-1.21.11-29.0.1.jar",
+            "MD5": "c4c1c3116df64ec4aeea0c6060f836f7"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.14.11@jar",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1392373,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+            "MD5": "371a86b3ab457ab58f03b80492d36d13"
+          }
+        },
+        {
+          "id": "de.cristelknight:cristellib:3.1.2@jar",
+          "name": "Cristel Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585050,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/cristellib-fabric-1.21.11-3.1.2.jar",
+            "MD5": "a225f4341d6c0dc796458fc0c3ef9ca1"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.21.11-3.6@jar",
+          "name": "Cupboard",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 35060,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/cupboard-fabric-1.21.11-3.6.jar",
+            "MD5": "104d64be5deef6919644dda6f7d3587a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:customskinloader:14.28@jar",
+          "name": "CustomSkinLoader",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 189001,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/CustomSkinLoader_Fabric-14.28.jar",
+            "MD5": "94a15c92204f96053cda45c1f3b18f19"
+          }
+        },
+        {
+          "id": "generated.fabricmod:disable_dimensions:0.7.1@jar",
+          "name": "Disable Dimensions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 227609,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/disable-dimensions-0.7.1+mod.jar",
+            "MD5": "0160bd2da7c32a812d9017059374e87d"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:3.0.2-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30090481,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/DistantHorizons-3.0.2-b-1.21.11-fabric-neoforge.jar",
+            "MD5": "11f821d092347098254307c344b56ddc"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:3.0.3-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30102067,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/DistantHorizons-3.0.3-b-1.21.11-fabric-neoforge.jar",
+            "MD5": "5d1502797458aec30f958a120aa38e74"
+          }
+        },
+        {
+          "id": "com.natamus:doubledoors:7.2@jar",
+          "name": "Double Doors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 78341,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/doubledoors-1.21.11-7.2.jar",
+            "MD5": "0635903142a5a6b8c2c5f35b0c3cb776"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.11.6@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 219961,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+            "MD5": "1248163a1204b3f5cebabac7a8fda177"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1604207,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/entityculling-fabric-1.10.2-mc1.21.11.jar",
+            "MD5": "6e7fa05378673eb837c52a5f1bdf5d16"
+          }
+        },
+        {
+          "id": "generated.fabricmod:explorify:1.6.5@jar",
+          "name": "Explorify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 767884,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/Explorify%20v1.6.5.mod.jar",
+            "MD5": "55bb6ffd4c69edb45a0d4e75a0b071ca"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.141.4+1.21.11@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2413332,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/fabric-api-0.141.4+1.21.11.jar",
+            "MD5": "5aeec6148c885849936a152bf4683c6d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.11+kotlin.2.3.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7813444,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+            "MD5": "06f4497b65f800a0b110025d8e9a4005"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:2.0.3@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 181268,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/fallingleaves-2.0.3+1.21.11.jar",
+            "MD5": "f60fcec180500d8014ba7294b472e207"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.21.11-3.4.9+refabricated@jar",
+          "name": "Farmer's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3223675,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/FarmersDelight-1.21.11-3.4.9+refabricated.jar",
+            "MD5": "16fcf3c6beed0ff344662b691276b713"
+          }
+        },
+        {
+          "id": "com.ianm1647:farmersknives:1.21.11-4.0.5@jar",
+          "name": "Farmer's Knives",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 63285,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/farmersknives-fabric-1.21.11-4.0.5.jar",
+            "MD5": "4c0602670336ce582f836152b8ad48d4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:8.2.0@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80138,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/ferritecore-8.2.0-fabric.jar",
+            "MD5": "3b5c6f5fe571ce945303fc37d5f4c15c"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.11.1@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 598009,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+            "MD5": "625e3619f1bd646b203b17717db2200a"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.2.12+a@jar",
+          "name": "Fusion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 544231,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/fusion-1.2.12a-fabric-mc1.21.11.jar",
+            "MD5": "a046e5d52f990664052b44e451a3e06d"
+          }
+        },
+        {
+          "id": "com.gpumemleakfix:gpumemleakfix:1.21.11-1.9@jar",
+          "name": "Gpu memory leak fix mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6263,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/gpumemleakfix-fabric-1.21.11-1.9.jar",
+            "MD5": "f1d3bb032c34ce66f65ef48bda1ac340"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.14.2+1.21.11@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 310445,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+            "MD5": "033dba6be467d96932d11ad7d171a829"
+          }
+        },
+        {
+          "id": "net.blay09.mods:inventoryessentials:21.11.5@jar",
+          "name": "Inventory Essentials",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 172287,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/inventoryessentials-fabric-1.21.11-21.11.5.jar",
+            "MD5": "8e8fb97500c19075d42cd30013c3fcff"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.10.7+mc1.21.11@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2807547,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/iris-fabric-1.10.7+mc1.21.11.jar",
+            "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9"
+          }
+        },
+        {
+          "id": "io.github.jamalam360.jamlib.impl:jamlib:2.0.0+1.21.11@jar",
+          "name": "JamLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228734,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/jamlib-fabric-2.0.0+1.21.11.jar",
+            "MD5": "0fd0ddca554f1840354c994d51c51a0c"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:27.4.0.22@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1530964,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/jei-1.21.11-fabric-27.4.0.22.jar",
+            "MD5": "48bf7b9881eb9aaf527109cd8089aef6"
+          }
+        },
+        {
+          "id": "generated.fabricmod:lambdynlights:4.9.1+1.21.11@jar",
+          "name": "LambDynamicLights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2144865,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lambdynamiclights-4.9.1+1.21.11.jar",
+            "MD5": "35d4fa10a0e9678d60022e73ae9fe814"
+          }
+        },
+        {
+          "id": "th.in.tamkungz:letyourfriendeating:1.1.2@jar",
+          "name": "Let Your Friend Eating!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 139792,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/LetYourFriendEating_1.1.2_1.21.11_Fabric.jar",
+            "MD5": "bb7003558753ea1fd543033de74dfee4"
+          }
+        },
+        {
+          "id": "dev.worldgen:lithostitched:1.7.2@jar",
+          "name": "Lithostitched",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 813076,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lithostitched-1.7.2-fabric-21.11.jar",
+            "MD5": "02668d5c4d223e094fcffcb00a2e22da"
+          }
+        },
+        {
+          "id": "generated.fabricmod:lmft:1.1.1+1.21.11@jar",
+          "name": "Load My F***ing Tags",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67311,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lmft-1.1.1+1.21.11-fabric.jar",
+            "MD5": "8ca27c34c653f3e79435fd4baf6ec375"
+          }
+        },
+        {
+          "id": "generated.fabricmod:lootintegrations_medievalbuildings:${version}@jar",
+          "name": "Lootintegrations_medievalbuildings Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6244,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lootintegrations_medievalbuildings-1.5.jar",
+            "MD5": "552714f7f751c8f9a634f09594777f8c"
+          }
+        },
+        {
+          "id": "com.lootintegrations:lootintegrations:1.21.11-4.8@jar",
+          "name": "Loot integration Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 40456,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lootintegrations-fabric-1.21.11-4.8.jar",
+            "MD5": "791c318cb5f0c6dfbd1e30bc95c1bbc0"
+          }
+        },
+        {
+          "id": "noobanidus.mods:lootr:1.21.11-1.20.34.104@jar",
+          "name": "Lootr",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1018314,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/lootr-fabric-1.21.11-1.20.34.104.jar",
+            "MD5": "ffd148af2f6732759e741bb860578133"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwbridges:3.1.2@jar",
+          "name": "Macaw's Bridges",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 690255,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+            "MD5": "e2b5b42f59392a9d798fea87c4aa3d92"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwdoors:1.1.5@jar",
+          "name": "Macaw's Doors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1383975,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+            "MD5": "907c2f929c88adc5b4e0b84c4a610647"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwfences:1.2.1@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 648429,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-fences-1.2.1-mc1.21.11fabric.jar",
+            "MD5": "b797605f7efc27c859f36ac1dbc15c59"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwfurnitures:3.4.2@jar",
+          "name": "Macaw's Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2184868,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+            "MD5": "2ec19f5ffeefdfcf3fcd1aff909e6f1f"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwlights:1.1.5@jar",
+          "name": "Macaw's Lights and Lamps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 503747,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-lights-1.1.5-mc1.21.11fabric.jar",
+            "MD5": "0c6e44c4200e47bf5e056789b761ac49"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwpaintings:1.1.0@jar",
+          "name": "Macaw's Paintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 179390,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-paintings-1.1.0-mc1.21.11fabric.jar",
+            "MD5": "8f8a46b5b2f938c08ad8fa13083085be"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.1.1@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 742568,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-paths-1.1.1-mc1.21.11fabric.jar",
+            "MD5": "05d329142d569b14861d3645101112cc"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwroofs:2.3.2@jar",
+          "name": "Macaw's Roofs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1758326,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-roofs-2.3.2-mc1.21.11fabric.jar",
+            "MD5": "e8c2593907cc3ac8b3e708e2714b856f"
+          }
+        },
+        {
+          "id": "com.mcwstairs.kikoz:mcwstairs:1.0.2@jar",
+          "name": "Macaw's Stairs and Balconies",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 518387,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+            "MD5": "8d6b32cc5c261537455acd24ce5b4932"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwtrpdoors:1.1.5@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 593448,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-trapdoors-1.1.5-mc1.21.11fabric.jar",
+            "MD5": "f06ee5b0e7b444625fe588c7bcdb55a3"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwwindows:2.4.2@jar",
+          "name": "Macaw's Windows",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1289522,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/mcw-windows-2.4.2-mc1.21.11fabric.jar",
+            "MD5": "088b399593dd357d25b05de674f8bdb6"
+          }
+        },
+        {
+          "id": "com.craftix:medievalend:1.0.5@jar",
+          "name": "Medieval Buildings [The End Edition]",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 598678,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/medieval_buildings_end_edition-1.21.X-1.0.5-fabric.jar",
+            "MD5": "8b7fc0b7b16858be33dc69a738a04c73"
+          }
+        },
+        {
+          "id": "com.craftix:medieval_nether:1.0.2@jar",
+          "name": "Medieval Buildings [The Nether Edition]",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 697699,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/medieval_buildings_nether_edition-1.21.11-1.0.2-fabric.jar",
+            "MD5": "3883d191d200dc1cf5a1458348ed1727"
+          }
+        },
+        {
+          "id": "com.craftix:medieval_buildings:1.1.2@jar",
+          "name": "Medieval Buildings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 373541,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/medieval_buildings-1.21.X-1.1.2-fabric.jar",
+            "MD5": "63473de721a073092ab91fb45fe182e2"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.26.2-build.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 627253,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/modernfix-5.26.2-build.1.jar",
+            "MD5": "165929548e5501ac292d52a9b62248c2"
+          }
+        },
+        {
+          "id": "generated.fabricmod:modernnetworking:1.2.8@jar",
+          "name": "Modern Networking",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 224544,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/modernnetworking-fabric-1.2.8+1.21.11.jar",
+            "MD5": "05dc1d62647aace03f7e2d2f3cb09c45"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:17.0.0@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1115809,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/modmenu-17.0.0.jar",
+            "MD5": "c46182d61ea8f99e68f5d86af1b3fdd8"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.6.2@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 340975,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/moreculling-fabric-1.21.11-1.6.2.jar",
+            "MD5": "8be2f9cf05efc60bbee7d41b4e598097"
+          }
+        },
+        {
+          "id": "com.axperty:moredelight:25.12.10-1.21.11-fabric@jar",
+          "name": "More Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 158107,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/moredelight-25.12.10-1.21.11-fabric.jar",
+            "MD5": "e66d43c725c9495ceccbbd982c77e5a9"
+          }
+        },
+        {
+          "id": "net.blay09.mods:netherportalfix:21.11.3@jar",
+          "name": "NetherPortalFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 213275,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/netherportalfix-fabric-1.21.11-21.11.3.jar",
+            "MD5": "17c2391c104789d5de19ffd5fdc923c2"
+          }
+        },
+        {
+          "id": "pigcart.particlerain.loaders:particlerain:4.0.0-beta.10@jar",
+          "name": "Particle Rain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 608703,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/particlerain-4.0.0-beta.10+1.21.11-fabric.jar",
+            "MD5": "08046e6e9d5f4fe12007d9764a8acd2d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.8.2+1.21.10@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 268662,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/placeholder-api-2.8.2+1.21.10.jar",
+            "MD5": "392f27ec00dd71b8b4a9819f9449e856"
+          }
+        },
+        {
+          "id": "com.supermartijn642:rechiseled:1.2.4@jar",
+          "name": "Rechiseled",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12260114,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/rechiseled-1.2.4-fabric-mc1.21.11.jar",
+            "MD5": "c28f2e63a80d9d3a399b6d6e65028562"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:rightclickharvest:4.6.1+1.21.11@jar",
+          "name": "Right Click Harvest",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 287693,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/rightclickharvest-fabric-4.6.1+1.21.11.jar",
+            "MD5": "b820961b13b7e5b4bfc7222cf312559b"
+          }
+        },
+        {
+          "id": "com.phantomwing:rusticdelight:1.5.4@jar",
+          "name": "Rustic Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 550982,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/rusticdelight-fabric-1.21.11-1.5.4.jar",
+            "MD5": "30006aae464f2448e8c0b6622c8aadc9"
+          }
+        },
+        {
+          "id": "generated.fabricmod:searchables:1.0.4@jar",
+          "name": "Searchables",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 79919,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/Searchables-fabric-1.21.11-1.0.4.jar",
+            "MD5": "5a457454d8895d5a443446f5ad5ecabc"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_serversleep:3@jar",
+          "name": "Server Sleep",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9195,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/serversleep-3.jar",
+            "MD5": "1504ddb3ca53a4e73857c0e1d86ee7c5"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.11.1@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1971642,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+            "MD5": "049016e2ff15a78ae4c9a12c954dbc71"
+          }
+        },
+        {
+          "id": "net.lionarius:skinrestorer:2.7.0+1.21.11-fabric@jar",
+          "name": "SkinRestorer",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 252134,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/skinrestorer-2.7.0+1.21.11-fabric.jar",
+            "MD5": "5d0faf6e285070e3e4b3531d676ab2d9"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.11+mc1.21.11@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1893184,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/sodium-fabric-0.8.11+mc1.21.11.jar",
+            "MD5": "44ea0951e8a21a607911af0a3c80105e"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.7+mc1.21.11@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1870358,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/sodium-fabric-0.8.7+mc1.21.11.jar",
+            "MD5": "be9eef883db31e21e422aed7262df919"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.21.11-1.5.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 203479,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+            "MD5": "25f7f6aa1930a9f9520fc17375313266"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 205836,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar",
+            "MD5": "8828caa78ebea8f6e9450da1f0d50229"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.21@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 667254,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/supermartijn642corelib-1.1.21-fabric-mc1.21.11.jar",
+            "MD5": "c5c6393458d18558796ca14fc40d704f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:t_and_t:1.13.9@jar",
+          "name": "Towns and Towers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3507359,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/t_and_t-fabric-neoforge-1.13.9.jar",
+            "MD5": "cc346d5d466d5e7722b6c0303878d4c0"
+          }
+        },
+        {
+          "id": "com.cerbon:talk_balloons:1.4.1@jar",
+          "name": "Talk Balloons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 86509,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/talk_balloons-fabric-1.4.1+1.21.11.jar",
+            "MD5": "b0d096c3718b70b9326debde96349435"
+          }
+        },
+        {
+          "id": "de.maxhenkel:vcinteraction:1.21.11-1.0.8@jar",
+          "name": "Voice Chat Interaction",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 509043,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/vcinteraction-fabric-1.21.11-1.0.8.jar",
+            "MD5": "48bc20bcbe5fc7efedb5919fecaa7c26"
+          }
+        },
+        {
+          "id": "org.vivecraft:vivecraft:1.21.11-1.3.7@jar",
+          "name": "Vivecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6030071,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/vivecraft-1.21.11-1.3.7-fabric.jar",
+            "MD5": "87b1c54904463a17141b1b6798d3170e"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.21.11-2.6.16@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5573798,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/voicechat-fabric-1.21.11-2.6.16.jar",
+            "MD5": "7bf666baa23614f8a8e8f44297d815df"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.21.11-2.6.17@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5574940,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/voicechat-fabric-1.21.11-2.6.17.jar",
+            "MD5": "3e5bb4d6b038d5913a85bee1929075b1"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.3.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2151166,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/xaerominimap-fabric-1.21.11-25.3.10.jar",
+            "MD5": "c74fd7631ac37d94a80a0d2d196a28f9"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.3.12@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2152212,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/xaerominimap-fabric-1.21.11-25.3.12.jar",
+            "MD5": "5b86aa76c05a6dc98de6ba56f0591609"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.40.11@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1434362,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+            "MD5": "713d131a03abaf8ff3f40729e87a4add"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.40.16@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1435689,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/fabricmods/required/xaeroworldmap-fabric-1.21.11-1.40.16.jar",
+            "MD5": "d25a2ded8fb8206ee6bc4a5f0c1f75dc"
+          }
+        },
+        {
+          "id": "appleskin.json5",
+          "name": "appleskin.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1218,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/appleskin.json5",
+            "MD5": "57410ad4abdcbc9047c5806b4a6df4c0",
+            "path": "config/appleskin.json5"
+          }
+        },
+        {
+          "id": "badoptimizations.txt",
+          "name": "badoptimizations.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3458,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/badoptimizations.txt",
+            "MD5": "7714652525dd4a0c873ddfc124aac217",
+            "path": "config/badoptimizations.txt"
+          }
+        },
+        {
+          "id": "betterpingdisplay.json",
+          "name": "betterpingdisplay.json",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/betterpingdisplay.json",
+            "MD5": "51eedb4be7463dbabd7a54f10f65c681",
+            "path": "config/betterpingdisplay.json"
+          }
+        },
+        {
+          "id": "chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/chat_heads.json5",
+            "MD5": "582cc3f28157f02c5504e49bc7e4a9f2",
+            "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "chefsdelightconfig.properties",
+          "name": "chefsdelightconfig.properties",
+          "type": "File",
+          "artifact": {
+            "size": 379,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/chefsdelightconfig.properties",
+            "MD5": "43c0fa0e88bf2d5a1b613c95afc0d5e3",
+            "path": "config/chefsdelightconfig.properties"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/chunky/config.json",
+            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
+            "path": "config/chunky/config.json"
+          }
+        },
+        {
+          "id": "overworld.properties",
+          "name": "overworld.properties",
+          "type": "File",
+          "artifact": {
+            "size": 134,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/chunky/tasks/minecraft/overworld.properties",
+            "MD5": "92f035a00e0e76cf0d45c270a3a86ea3",
+            "path": "config/chunky/tasks/minecraft/overworld.properties"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 827,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/collective.json5",
+            "MD5": "c1a6c344217a2164ca0db41f9d286d00",
+            "path": "config/collective.json5"
+          }
+        },
+        {
+          "id": "connectiblechains.toml",
+          "name": "connectiblechains.toml",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/connectiblechains.toml",
+            "MD5": "d28e47af1725e1c77231bb4416a0895d",
+            "path": "config/connectiblechains.toml"
+          }
+        },
+        {
+          "id": "continuity.json",
+          "name": "continuity.json",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/continuity.json",
+            "MD5": "4ec9e180f81089dff029c5b7f2fc4b2c",
+            "path": "config/continuity.json"
+          }
+        },
+        {
+          "id": "creativecore-client.json",
+          "name": "creativecore-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/creativecore-client.json",
+            "MD5": "235bb114cb2741da4a4dd79c3f559c15",
+            "path": "config/creativecore-client.json"
+          }
+        },
+        {
+          "id": "creativecore.json",
+          "name": "creativecore.json",
+          "type": "File",
+          "artifact": {
+            "size": 274,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/creativecore.json",
+            "MD5": "a3979095f52fee66bc8624b7898d2e8e",
+            "path": "config/creativecore.json"
+          }
+        },
+        {
+          "id": "auto_config_settings.json5",
+          "name": "auto_config_settings.json5",
+          "type": "File",
+          "artifact": {
+            "size": 895,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/auto_config_settings.json5",
+            "MD5": "0c9a6e83374acb143656ebbc70e0426e",
+            "path": "config/cristellib/auto_config_settings.json5"
+          }
+        },
+        {
+          "id": "built_in_packs.json5",
+          "name": "built_in_packs.json5",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/built_in_packs.json5",
+            "MD5": "6bdeef46adad3bea4852aba537837198",
+            "path": "config/cristellib/built_in_packs.json5"
+          }
+        },
+        {
+          "id": "structure_placement_config.json5",
+          "name": "structure_placement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1382,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/explorify/structure_placement_config.json5",
+            "MD5": "4ea6b3bd5f4c618c0c7e71f6e102a70a",
+            "path": "config/cristellib/explorify/structure_placement_config.json5"
+          }
+        },
+        {
+          "id": "structure_toggle_config.json5",
+          "name": "structure_toggle_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 902,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/explorify/structure_toggle_config.json5",
+            "MD5": "944ba94180f177e05442016578f22f78",
+            "path": "config/cristellib/explorify/structure_toggle_config.json5"
+          }
+        },
+        {
+          "id": "structure_placement_config.json5",
+          "name": "structure_placement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 121,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medievalend/structure_placement_config.json5",
+            "MD5": "46adbcd326666665428c61592c059b9a",
+            "path": "config/cristellib/medievalend/structure_placement_config.json5"
+          }
+        },
+        {
+          "id": "structure_toggle_config.json5",
+          "name": "structure_toggle_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 151,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medievalend/structure_toggle_config.json5",
+            "MD5": "aa8897978387580716736e75d656fbe4",
+            "path": "config/cristellib/medievalend/structure_toggle_config.json5"
+          }
+        },
+        {
+          "id": "structure_placement_config.json5",
+          "name": "structure_placement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 190,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_buildings/structure_placement_config.json5",
+            "MD5": "76d9c3af4a93a36d4806a2f0f07918f4",
+            "path": "config/cristellib/medieval_buildings/structure_placement_config.json5"
+          }
+        },
+        {
+          "id": "structure_toggle_config.json5",
+          "name": "structure_toggle_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_buildings/structure_toggle_config.json5",
+            "MD5": "859e00edd692b448e2afc4740e206bca",
+            "path": "config/cristellib/medieval_buildings/structure_toggle_config.json5"
+          }
+        },
+        {
+          "id": "structure_placement_config.json5",
+          "name": "structure_placement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 119,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_nether/structure_placement_config.json5",
+            "MD5": "f8c99e26ca32b7ea60c50aaa120d0f8c",
+            "path": "config/cristellib/medieval_nether/structure_placement_config.json5"
+          }
+        },
+        {
+          "id": "structure_toggle_config.json5",
+          "name": "structure_toggle_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_nether/structure_toggle_config.json5",
+            "MD5": "6641277294f392436b099932f9b68fea",
+            "path": "config/cristellib/medieval_nether/structure_toggle_config.json5"
+          }
+        },
+        {
+          "id": "cupboard.json",
+          "name": "cupboard.json",
+          "type": "File",
+          "artifact": {
+            "size": 1304,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/cupboard.json",
+            "MD5": "78b28ef5ad74a283f4d7e9fe5d53ed31",
+            "path": "config/cupboard.json"
+          }
+        },
+        {
+          "id": "DistantHorizons.toml",
+          "name": "DistantHorizons.toml",
+          "type": "File",
+          "artifact": {
+            "size": 32930,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/DistantHorizons.toml",
+            "MD5": "ddd29993c0b4074b02a15a915d48acd3",
+            "path": "config/DistantHorizons.toml"
+          }
+        },
+        {
+          "id": "doubledoors.json5",
+          "name": "doubledoors.json5",
+          "type": "File",
+          "artifact": {
+            "size": 981,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/doubledoors.json5",
+            "MD5": "97a0d3f047427233a7d55a208b5b0d5a",
+            "path": "config/doubledoors.json5"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 3,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/dynamic_fps.json",
+            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "path": "config/dynamic_fps.json"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 1897,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/entityculling.json",
+            "MD5": "422b1718498a957ece2de2453634102a",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 261,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/fabric/indigo-renderer.properties",
+            "MD5": "4554c52697c131d6c61633008c82c3cf",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fallingleaves2.json",
+          "name": "fallingleaves2.json",
+          "type": "File",
+          "artifact": {
+            "size": 674,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/fallingleaves2.json",
+            "MD5": "77b611cef8de0b696777c2064392891b",
+            "path": "config/fallingleaves2.json"
+          }
+        },
+        {
+          "id": "farmersdelight-client.json",
+          "name": "farmersdelight-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 263,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/farmersdelight-client.json",
+            "MD5": "11157b76957891e69d9a029d77df2210",
+            "path": "config/farmersdelight-client.json"
+          }
+        },
+        {
+          "id": "farmersdelight-common.json",
+          "name": "farmersdelight-common.json",
+          "type": "File",
+          "artifact": {
+            "size": 1688,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/farmersdelight-common.json",
+            "MD5": "a447b8eeca34bef4367c12ef023bae82",
+            "path": "config/farmersdelight-common.json"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1615,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/ferritecore.mixin.properties",
+            "MD5": "5c31ce8efe368dbbf5051a46985ffcd2",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "forgeconfigapiport.toml",
+          "name": "forgeconfigapiport.toml",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/forgeconfigapiport.toml",
+            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+            "path": "config/forgeconfigapiport.toml"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 983,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/immediatelyfast.json",
+            "MD5": "23782d455399427be51e396d2fdba580",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "inventoryessentials-common.toml",
+          "name": "inventoryessentials-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1233,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/inventoryessentials-common.toml",
+            "MD5": "e80dfb2f8129d7698503787c816f1697",
+            "path": "config/inventoryessentials-common.toml"
+          }
+        },
+        {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/iris.properties",
+            "MD5": "3c1d5b60bbcff47d127034df80037d0d",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "known_suspicious_jars.txt",
+          "name": "known_suspicious_jars.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jamlib/known_suspicious_jars.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jamlib/known_suspicious_jars.txt"
+          }
+        },
+        {
+          "id": "blacklist.json",
+          "name": "blacklist.json",
+          "type": "File",
+          "artifact": {
+            "size": 19,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/blacklist.json",
+            "MD5": "78f1a39821342258f73e542d9ea40e0f",
+            "path": "config/jei/blacklist.json"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 289,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "f76c6f8c67e3717df37c2f64c2557815",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 86,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "a297d9637a74577adaed06e68221a8a0",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 10726,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-client.ini",
+            "MD5": "ca7c7175ea3119d7a9dec8e5773fa838",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1362,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-colors.ini",
+            "MD5": "2b1d073ff360c11353f0079b7539cb2e",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1326,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-debug.ini",
+            "MD5": "6b0b7cc1c5064cdf7189ed814c2668bb",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 489,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-mod-id-format.ini",
+            "MD5": "7346a8c14352eda612ae4765f6758a62",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 423,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/recipe-category-sort-order.ini",
+            "MD5": "31af520088002f18e65399a92701bcd6",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "lookupHistory.json",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "artifact": {
+            "size": 303,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/world/local/New_World/lookupHistory.json",
+            "MD5": "b60f5bd1172931f8544a892380e2b7f2",
+            "path": "config/jei/world/local/New_World/lookupHistory.json"
+          }
+        },
+        {
+          "id": "lookupHistory.json",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "artifact": {
+            "size": 129,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/world/local/New_World__2/lookupHistory.json",
+            "MD5": "f25139a50fcca25949f70fbe209773a2",
+            "path": "config/jei/world/local/New_World__2/lookupHistory.json"
+          }
+        },
+        {
+          "id": "lookupHistory.json",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/world/server/Minecraft_Server_d7a9200d/lookupHistory.json",
+            "MD5": "fd13af5579c9c26b3baa0c7d1a6a8686",
+            "path": "config/jei/world/server/Minecraft_Server_d7a9200d/lookupHistory.json"
+          }
+        },
+        {
+          "id": "lookupHistory.json",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "artifact": {
+            "size": 7029,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/jei/world/server/VR_Ukraine_SMP_993a54b9/lookupHistory.json",
+            "MD5": "e49e5e9108c5e861ce5bb327fe96fd1f",
+            "path": "config/jei/world/server/VR_Ukraine_SMP_993a54b9/lookupHistory.json"
+          }
+        },
+        {
+          "id": "lambdynlights.toml",
+          "name": "lambdynlights.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1448,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/lambdynlights.toml",
+            "MD5": "ea1917df0f1c3fd26e782f0d9f5a63cc",
+            "path": "config/lambdynlights.toml"
+          }
+        },
+        {
+          "id": "letyourfriendeating-settings.json",
+          "name": "letyourfriendeating-settings.json",
+          "type": "File",
+          "artifact": {
+            "size": 86,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/letyourfriendeating-settings.json",
+            "MD5": "f208085901b8a0d60b8ba5d0f59ffd9d",
+            "path": "config/letyourfriendeating-settings.json"
+          }
+        },
+        {
+          "id": "lithostitched.json",
+          "name": "lithostitched.json",
+          "type": "File",
+          "artifact": {
+            "size": 284,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/lithostitched.json",
+            "MD5": "345e5fd8f4228a78675c761850e85ba9",
+            "path": "config/lithostitched.json"
+          }
+        },
+        {
+          "id": "lmft.json",
+          "name": "lmft.json",
+          "type": "File",
+          "artifact": {
+            "size": 66,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/lmft.json",
+            "MD5": "8454fb0618d6203bd43c5f02ae90174f",
+            "path": "config/lmft.json"
+          }
+        },
+        {
+          "id": "lootintegrations.json",
+          "name": "lootintegrations.json",
+          "type": "File",
+          "artifact": {
+            "size": 920,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/lootintegrations.json",
+            "MD5": "55fdf134b033ed4380f958971beab847",
+            "path": "config/lootintegrations.json"
+          }
+        },
+        {
+          "id": "lootr.json",
+          "name": "lootr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1729,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/lootr.json",
+            "MD5": "070579ef788aca0c729cf8dc6dd7a001",
+            "path": "config/lootr.json"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3805,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/modernfix-mixins.properties",
+            "MD5": "09f9ac8b847168bf26750946cd831e7a",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 840,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/modmenu.json",
+            "MD5": "6f801fc101c146e1c993f05544858c34",
+            "path": "config/modmenu.json"
+          }
+        },
+        {
+          "id": "moreculling.toml",
+          "name": "moreculling.toml",
+          "type": "File",
+          "artifact": {
+            "size": 769,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/moreculling.toml",
+            "MD5": "d57abe3fa7a2155d28700f47a7866253",
+            "path": "config/moreculling.toml"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/particlerain/config.json",
+            "MD5": "80ddd562fd2e128d071903c964c7d871",
+            "path": "config/particlerain/config.json"
+          }
+        },
+        {
+          "id": "rightclickharvest.json5",
+          "name": "rightclickharvest.json5",
+          "type": "File",
+          "artifact": {
+            "size": 609,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/rightclickharvest.json5",
+            "MD5": "6f1d5d9807c1df57d0495423a49cdde9",
+            "path": "config/rightclickharvest.json5"
+          }
+        },
+        {
+          "id": "rusticdelight.json",
+          "name": "rusticdelight.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/rusticdelight.json",
+            "MD5": "6f4c8db73729a75f20c1cbe9cb84d0b7",
+            "path": "config/rusticdelight.json"
+          }
+        },
+        {
+          "id": "skinlayers.json",
+          "name": "skinlayers.json",
+          "type": "File",
+          "artifact": {
+            "size": 497,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/skinlayers.json",
+            "MD5": "04d6f743e89a6fba20ddef26e3fbef9a",
+            "path": "config/skinlayers.json"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1016,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/skinrestorer/config.json",
+            "MD5": "540c114cbb05f65348b0be0aae202aca",
+            "path": "config/skinrestorer/config.json"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sodium-fingerprint.json",
+            "MD5": "308d44e8dd41c0b3a9e8f8fa8958d918",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 732,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sodium-options.json",
+            "MD5": "d259b6b6ec2a0522cdd3a3f03b6bb6f2",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "occlusion.properties",
+          "name": "occlusion.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4831,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/occlusion.properties",
+            "MD5": "65630e0f012205fc8b074e2f90ff89c2",
+            "path": "config/sound_physics_remastered/occlusion.properties"
+          }
+        },
+        {
+          "id": "reflectivity.properties",
+          "name": "reflectivity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4713,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "a96fdc43367fe049dff56acbf204a79d",
+            "path": "config/sound_physics_remastered/reflectivity.properties"
+          }
+        },
+        {
+          "id": "soundphysics.properties",
+          "name": "soundphysics.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5104,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/soundphysics.properties",
+            "MD5": "1f6041a6026f08f1d6088437da611263",
+            "path": "config/sound_physics_remastered/soundphysics.properties"
+          }
+        },
+        {
+          "id": "sound_rates.properties",
+          "name": "sound_rates.properties",
+          "type": "File",
+          "artifact": {
+            "size": 72802,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/sound_rates.properties",
+            "MD5": "c7b10fc52f58be81d08010700530835e",
+            "path": "config/sound_physics_remastered/sound_rates.properties"
+          }
+        },
+        {
+          "id": "talk_balloons.json5",
+          "name": "talk_balloons.json5",
+          "type": "File",
+          "artifact": {
+            "size": 335,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/talk_balloons.json5",
+            "MD5": "d860b42e50e06a83eff46f872b9ed97a",
+            "path": "config/talk_balloons.json5"
+          }
+        },
+        {
+          "id": "terralith.json",
+          "name": "terralith.json",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/terralith.json",
+            "MD5": "c896fd90ee07b80fbea62afbd06deb26",
+            "path": "config/terralith.json"
+          }
+        },
+        {
+          "id": "structure_enable_or_disable_new.json5",
+          "name": "structure_enable_or_disable_new.json5",
+          "type": "File",
+          "artifact": {
+            "size": 3051,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/towns_and_towers/structure_enable_or_disable_new.json5",
+            "MD5": "fbccc75e368d3ee378b2415421c0abde",
+            "path": "config/towns_and_towers/structure_enable_or_disable_new.json5"
+          }
+        },
+        {
+          "id": "structure_rarity_new.json5",
+          "name": "structure_rarity_new.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1520,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/towns_and_towers/structure_rarity_new.json5",
+            "MD5": "ed94246ff48f8f7f92e7d77c33c3a95f",
+            "path": "config/towns_and_towers/structure_rarity_new.json5"
+          }
+        },
+        {
+          "id": "transition.json",
+          "name": "transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 62,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/transition.json",
+            "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
+            "path": "config/transition.json"
+          }
+        },
+        {
+          "id": "travelersbackpack-client.toml",
+          "name": "travelersbackpack-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1612,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/travelersbackpack-client.toml",
+            "path": "config/travelersbackpack-client.toml"
+          }
+        },
+        {
+          "id": "travelersbackpack-common.toml",
+          "name": "travelersbackpack-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 197,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/travelersbackpack-common.toml",
+            "MD5": "4051d354d72650dcd84d108894bc12c1",
+            "path": "config/travelersbackpack-common.toml"
+          }
+        },
+        {
+          "id": "travelersbackpack-server.toml",
+          "name": "travelersbackpack-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 11613,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/travelersbackpack-server.toml",
+            "MD5": "c28367a970b617bf83a279842e084e8c",
+            "path": "config/travelersbackpack-server.toml"
+          }
+        },
+        {
+          "id": "trender.json",
+          "name": "trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/trender.json",
+            "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
+            "path": "config/trender.json"
+          }
+        },
+        {
+          "id": "placement_structure_config.json5",
+          "name": "placement_structure_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1690,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/vanilla_structures/placement_structure_config.json5",
+            "MD5": "c26bb09ed1ad04c12e6f37313274d1cc",
+            "path": "config/vanilla_structures/placement_structure_config.json5"
+          }
+        },
+        {
+          "id": "toggle_structure_config.json5",
+          "name": "toggle_structure_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1423,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/vanilla_structures/toggle_structure_config.json5",
+            "MD5": "672f5f27e8132d7b4499765c26625c83",
+            "path": "config/vanilla_structures/toggle_structure_config.json5"
+          }
+        },
+        {
+          "id": "vcinteraction.properties",
+          "name": "vcinteraction.properties",
+          "type": "File",
+          "artifact": {
+            "size": 388,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/vcinteraction/vcinteraction.properties",
+            "MD5": "af4330f80e7264f35e8e406bd585618c",
+            "path": "config/vcinteraction/vcinteraction.properties"
+          }
+        },
+        {
+          "id": "vivecraft-client-config.json",
+          "name": "vivecraft-client-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 8623,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/vivecraft-client-config.json",
+            "MD5": "38deb2cb034831046280673544c03d2b",
+            "path": "config/vivecraft-client-config.json"
+          }
+        },
+        {
+          "id": "vivecraft-server-config.toml",
+          "name": "vivecraft-server-config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9668,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/vivecraft-server-config.toml",
+            "MD5": "2e6b884edd381d14ef4400d94c247ab1",
+            "path": "config/vivecraft-server-config.toml"
+          }
+        },
+        {
+          "id": "category-volumes.properties",
+          "name": "category-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "path": "config/voicechat/category-volumes.properties"
+          }
+        },
+        {
+          "id": "player-volumes.properties",
+          "name": "player-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "path": "config/voicechat/player-volumes.properties"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "username-cache.json",
+          "name": "username-cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "config/voicechat/username-cache.json"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5079,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/voicechat-client.properties",
+            "MD5": "61eb0b80374c186a6465b31e329d7192",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2839,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voicechat/voicechat-server.properties",
+            "MD5": "aaca2d30ce619d1cfc2e34b50ee6dc68",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voxy-config.json",
+          "name": "voxy-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voxy-config.json",
+            "MD5": "c061ca4575e6e0ce71d8aade1a1a7b4b",
+            "path": "config/voxy-config.json"
+          }
+        },
+        {
+          "id": "voxyserver-client.json",
+          "name": "voxyserver-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 124,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voxyserver-client.json",
+            "MD5": "729ebf27c7d7c5cc1a5c2f714f4f563a",
+            "path": "config/voxyserver-client.json"
+          }
+        },
+        {
+          "id": "voxyserver.json",
+          "name": "voxyserver.json",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/voxyserver.json",
+            "MD5": "0187fa28b8e0b5ea531b5d0cba3ab898",
+            "path": "config/voxyserver.json"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/client.cfg",
+            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
+            "path": "config/xaero/lib/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/common.cfg",
+            "MD5": "e085e122e32132e1fa73ac927f7ece81",
+            "path": "config/xaero/lib/common.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 121,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/profiles/default.cfg",
+            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
+            "path": "config/xaero/lib/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/server_profiles/default.cfg",
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/lib/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/client.cfg",
+            "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
+            "path": "config/xaero/minimap/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/common.cfg",
+            "MD5": "48d56532be92f58e976a2d1753abdd35",
+            "path": "config/xaero/minimap/common.cfg"
+          }
+        },
+        {
+          "id": "default_radar_categories_client.json",
+          "name": "default_radar_categories_client.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/default_radar_categories_client.json",
+            "MD5": "6aa0c1720795d59a3cd21e3becba9685",
+            "path": "config/xaero/minimap/default_radar_categories_client.json"
+          }
+        },
+        {
+          "id": "default_radar_categories_server.json",
+          "name": "default_radar_categories_server.json",
+          "type": "File",
+          "artifact": {
+            "size": 4597,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/default_radar_categories_server.json",
+            "MD5": "7ffe568a308241b93166af2d45ce79c7",
+            "path": "config/xaero/minimap/default_radar_categories_server.json"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3657,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/profiles/default.cfg",
+            "MD5": "5d54345c6a4972812932f5ed0b42946a",
+            "path": "config/xaero/minimap/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg.txt",
+          "name": "default.cfg.txt",
+          "type": "File",
+          "artifact": {
+            "size": 684,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "MD5": "64d98932063f0be723920fbdb1de1268",
+            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/server_profiles/default.cfg",
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/minimap/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 466,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/client.cfg",
+            "MD5": "b5d4c155d1c2212ad7f51b89ca67fd80",
+            "path": "config/xaero/world-map/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 141,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/common.cfg",
+            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
+            "path": "config/xaero/world-map/common.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1379,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/profiles/default.cfg",
+            "MD5": "f4151e7df2284ff2ab24bef0ca2365c2",
+            "path": "config/xaero/world-map/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg",
+          "name": "default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/server_profiles/default.cfg",
+            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
+            "path": "config/xaero/world-map/server_profiles/default.cfg"
+          }
+        },
+        {
+          "id": "xaerohud.txt",
+          "name": "xaerohud.txt",
+          "type": "File",
+          "artifact": {
+            "size": 123,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaerohud.txt",
+            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
+            "path": "config/xaerohud.txt"
+          }
+        },
+        {
+          "id": "xaeropatreon.txt",
+          "name": "xaeropatreon.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/config/xaeropatreon.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/xaeropatreon.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 11413,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "VR_Ukraine_Logo_1.21.11 (1).zip",
+          "name": "VR_Ukraine_Logo_1.21.11 (1).zip",
+          "type": "File",
+          "artifact": {
+            "size": 117729,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/resourcepacks/VR_Ukraine_Logo_1.21.11%20(1).zip",
+            "MD5": "5d3cf7f094090a135f5ea41e006da695",
+            "path": "resourcepacks/VR_Ukraine_Logo_1.21.11 (1).zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 17328,
+            "url": "https://github.com/squirrel-vr/servers/VRUkraineSMP-1.21.11/files/servers.dat",
+            "path": "servers.dat"
+          }
+        }
+      ]
+    }
+  ]
+}

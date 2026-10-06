@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///C:/Users/bogda/Projects/minecraft/helios/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "VRUkraineSMP",
+    "description": "VRUkraineSMP Forever Server",
+    "icon": "VRUkraineSMP-1.21.11.jpg",
+    "address": "mc.vr-ukraine.com:25809",
+    "discord": {
+      "shortId": "VRUkraine",
+      "largeImageText": "VR Ukraine",
+      "largeImageKey": "seal-circle"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.19.0"
+  },
+  "untrackedFiles": [
+      {
+        "appliesTo": ["files"],
+        "patterns": ["options.txt", "servers.dat", "config/**/*-client.toml"]
+      }
+  ]
+}

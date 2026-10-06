@@ -1,0 +1,10 @@
+{
+  "$schema": "file:///C:/Users/bogda/Projects/minecraft/helios/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "discord": {
+      "clientId": "VR UA",
+      "smallImageText": "VR Ukraine",
+      "smallImageKey": "seal-circle"
+    }
+  }
+}

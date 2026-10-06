@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:cutting_board"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:pale_oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
