@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/bogda/Projects/minecraft/helios/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "VRUkraineSMP",
     "description": "VRUkraineSMP Forever Server",
     "icon": "VRUkraineSMP-1.21.11.jpg",
