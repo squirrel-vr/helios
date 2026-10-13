@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sponge-mixin-0.17.1+mixin.0.8.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repo/lib/net/fabricmc/sponge-mixin/0.17.1+mixin.0.8.7/sponge-mixin-0.17.1+mixin.0.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

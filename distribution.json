@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "rss": "https://helios.vr-ukraine.com/rss.xml",
   "discord": {
     "clientId": "VR UA",
     "smallImageText": "VR Ukraine",

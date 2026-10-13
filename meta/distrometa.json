@@ -5,6 +5,7 @@
       "clientId": "VR UA",
       "smallImageText": "VR Ukraine",
       "smallImageKey": "seal-circle"
-    }
+    },
+    "rss": "https://helios.vr-ukraine.com/rss.xml"
   }
 }
