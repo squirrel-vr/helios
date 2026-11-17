@@ -1,0 +1,5 @@
+---
+layout: null
+---
+{% for file in site.static_files %}{% if file.path contains '/backgrounds/' %}{{ file.path | absolute_url }}
+{% endif %}{% endfor %}
