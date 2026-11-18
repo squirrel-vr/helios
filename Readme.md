@@ -4,6 +4,6 @@
 This repository contains configurations, modpacks, and other files related to the VR Ukraine Minecraft launcher service.
 
 ## How to use:
- - [Create or update packs](docs/CreateOrUpdatePacks.md)
+ - [Create or update packs](docs/Create_Update_Packs.md)
  - [Add or update backgrounds](docs/Backgrounds.md)
- - [Create news posts](docs/News.md)
+ - [Create news posts](docs/Post_News.md)
