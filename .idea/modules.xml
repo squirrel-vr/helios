@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Nebula/Nebula.iml" filepath="$PROJECT_DIR$/../Nebula/Nebula.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/helios.iml" filepath="$PROJECT_DIR$/.idea/helios.iml" />
     </modules>
   </component>
