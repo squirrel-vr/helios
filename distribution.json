@@ -12,7 +12,7 @@
       "name": "VRUkraineSMP",
       "description": "VRUkraineSMP Forever Server",
       "icon": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/VRUkraineSMP-1.21.11.jpg",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "mc.vr-ukraine.com:25809",
       "minecraftVersion": "1.21.11",
       "discord": {
@@ -560,6 +560,20 @@
           }
         },
         {
+          "id": "fi.dy.masa:litematica:0.26.12@jar",
+          "name": "Litematica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1908188,
+            "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/fabricmods/optionaloff/litematica-fabric-1.21.11-0.26.12.jar",
+            "MD5": "1a9d7f6e611ecdee791f46db52e4486b"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "dev.worldgen:lithostitched:1.7.2@jar",
           "name": "Lithostitched",
           "type": "FabricMod",
@@ -607,6 +621,16 @@
             "size": 1018314,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/fabricmods/required/lootr-fabric-1.21.11-1.20.34.104.jar",
             "MD5": "ffd148af2f6732759e741bb860578133"
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.27.20@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2161348,
+            "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/fabricmods/required/malilib-fabric-1.21.11-0.27.20.jar",
+            "MD5": "c732220a0e790e74cab9ecb770861598"
           }
         },
         {
