@@ -12,7 +12,7 @@
       "name": "VRUkraineSMP",
       "description": "VRUkraineSMP Forever Server",
       "icon": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/VRUkraineSMP-1.21.11.jpg",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "mc.vr-ukraine.com:25809",
       "minecraftVersion": "1.21.11",
       "discord": {
@@ -1042,7 +1042,6 @@
           "artifact": {
             "size": 1218,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/appleskin.json5",
-            "MD5": "57410ad4abdcbc9047c5806b4a6df4c0",
             "path": "config/appleskin.json5"
           }
         },
@@ -1053,7 +1052,6 @@
           "artifact": {
             "size": 3458,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/badoptimizations.txt",
-            "MD5": "7714652525dd4a0c873ddfc124aac217",
             "path": "config/badoptimizations.txt"
           }
         },
@@ -1064,7 +1062,6 @@
           "artifact": {
             "size": 122,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/betterpingdisplay.json",
-            "MD5": "51eedb4be7463dbabd7a54f10f65c681",
             "path": "config/betterpingdisplay.json"
           }
         },
@@ -1075,7 +1072,6 @@
           "artifact": {
             "size": 229,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/chat_heads.json5",
-            "MD5": "582cc3f28157f02c5504e49bc7e4a9f2",
             "path": "config/chat_heads.json5"
           }
         },
@@ -1086,7 +1082,6 @@
           "artifact": {
             "size": 379,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/chefsdelightconfig.properties",
-            "MD5": "43c0fa0e88bf2d5a1b613c95afc0d5e3",
             "path": "config/chefsdelightconfig.properties"
           }
         },
@@ -1097,7 +1092,6 @@
           "artifact": {
             "size": 146,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/chunky/config.json",
-            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
             "path": "config/chunky/config.json"
           }
         },
@@ -1108,7 +1102,6 @@
           "artifact": {
             "size": 134,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/chunky/tasks/minecraft/overworld.properties",
-            "MD5": "92f035a00e0e76cf0d45c270a3a86ea3",
             "path": "config/chunky/tasks/minecraft/overworld.properties"
           }
         },
@@ -1119,7 +1112,6 @@
           "artifact": {
             "size": 827,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/collective.json5",
-            "MD5": "c1a6c344217a2164ca0db41f9d286d00",
             "path": "config/collective.json5"
           }
         },
@@ -1130,7 +1122,6 @@
           "artifact": {
             "size": 72,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/connectiblechains.toml",
-            "MD5": "d28e47af1725e1c77231bb4416a0895d",
             "path": "config/connectiblechains.toml"
           }
         },
@@ -1141,7 +1132,6 @@
           "artifact": {
             "size": 92,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/continuity.json",
-            "MD5": "4ec9e180f81089dff029c5b7f2fc4b2c",
             "path": "config/continuity.json"
           }
         },
@@ -1152,7 +1142,6 @@
           "artifact": {
             "size": 23,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/creativecore-client.json",
-            "MD5": "235bb114cb2741da4a4dd79c3f559c15",
             "path": "config/creativecore-client.json"
           }
         },
@@ -1163,7 +1152,6 @@
           "artifact": {
             "size": 274,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/creativecore.json",
-            "MD5": "a3979095f52fee66bc8624b7898d2e8e",
             "path": "config/creativecore.json"
           }
         },
@@ -1174,7 +1162,6 @@
           "artifact": {
             "size": 895,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/auto_config_settings.json5",
-            "MD5": "0c9a6e83374acb143656ebbc70e0426e",
             "path": "config/cristellib/auto_config_settings.json5"
           }
         },
@@ -1185,7 +1172,6 @@
           "artifact": {
             "size": 373,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/built_in_packs.json5",
-            "MD5": "6bdeef46adad3bea4852aba537837198",
             "path": "config/cristellib/built_in_packs.json5"
           }
         },
@@ -1196,7 +1182,6 @@
           "artifact": {
             "size": 1382,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/explorify/structure_placement_config.json5",
-            "MD5": "4ea6b3bd5f4c618c0c7e71f6e102a70a",
             "path": "config/cristellib/explorify/structure_placement_config.json5"
           }
         },
@@ -1207,7 +1192,6 @@
           "artifact": {
             "size": 902,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/explorify/structure_toggle_config.json5",
-            "MD5": "944ba94180f177e05442016578f22f78",
             "path": "config/cristellib/explorify/structure_toggle_config.json5"
           }
         },
@@ -1218,7 +1202,6 @@
           "artifact": {
             "size": 121,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medievalend/structure_placement_config.json5",
-            "MD5": "46adbcd326666665428c61592c059b9a",
             "path": "config/cristellib/medievalend/structure_placement_config.json5"
           }
         },
@@ -1229,7 +1212,6 @@
           "artifact": {
             "size": 151,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medievalend/structure_toggle_config.json5",
-            "MD5": "aa8897978387580716736e75d656fbe4",
             "path": "config/cristellib/medievalend/structure_toggle_config.json5"
           }
         },
@@ -1240,7 +1222,6 @@
           "artifact": {
             "size": 190,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_buildings/structure_placement_config.json5",
-            "MD5": "76d9c3af4a93a36d4806a2f0f07918f4",
             "path": "config/cristellib/medieval_buildings/structure_placement_config.json5"
           }
         },
@@ -1251,7 +1232,6 @@
           "artifact": {
             "size": 164,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_buildings/structure_toggle_config.json5",
-            "MD5": "859e00edd692b448e2afc4740e206bca",
             "path": "config/cristellib/medieval_buildings/structure_toggle_config.json5"
           }
         },
@@ -1262,7 +1242,6 @@
           "artifact": {
             "size": 119,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_nether/structure_placement_config.json5",
-            "MD5": "f8c99e26ca32b7ea60c50aaa120d0f8c",
             "path": "config/cristellib/medieval_nether/structure_placement_config.json5"
           }
         },
@@ -1273,7 +1252,6 @@
           "artifact": {
             "size": 148,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cristellib/medieval_nether/structure_toggle_config.json5",
-            "MD5": "6641277294f392436b099932f9b68fea",
             "path": "config/cristellib/medieval_nether/structure_toggle_config.json5"
           }
         },
@@ -1284,7 +1262,6 @@
           "artifact": {
             "size": 1304,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/cupboard.json",
-            "MD5": "78b28ef5ad74a283f4d7e9fe5d53ed31",
             "path": "config/cupboard.json"
           }
         },
@@ -1295,7 +1272,6 @@
           "artifact": {
             "size": 32930,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/DistantHorizons.toml",
-            "MD5": "ddd29993c0b4074b02a15a915d48acd3",
             "path": "config/DistantHorizons.toml"
           }
         },
@@ -1306,7 +1282,6 @@
           "artifact": {
             "size": 981,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/doubledoors.json5",
-            "MD5": "97a0d3f047427233a7d55a208b5b0d5a",
             "path": "config/doubledoors.json5"
           }
         },
@@ -1317,7 +1292,6 @@
           "artifact": {
             "size": 3,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/dynamic_fps.json",
-            "MD5": "8a80554c91d9fca8acb82f023de02f11",
             "path": "config/dynamic_fps.json"
           }
         },
@@ -1328,7 +1302,6 @@
           "artifact": {
             "size": 1897,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/entityculling.json",
-            "MD5": "422b1718498a957ece2de2453634102a",
             "path": "config/entityculling.json"
           }
         },
@@ -1339,7 +1312,6 @@
           "artifact": {
             "size": 261,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/fabric/indigo-renderer.properties",
-            "MD5": "4554c52697c131d6c61633008c82c3cf",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -1350,7 +1322,6 @@
           "artifact": {
             "size": 674,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/fallingleaves2.json",
-            "MD5": "77b611cef8de0b696777c2064392891b",
             "path": "config/fallingleaves2.json"
           }
         },
@@ -1361,7 +1332,6 @@
           "artifact": {
             "size": 263,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/farmersdelight-client.json",
-            "MD5": "11157b76957891e69d9a029d77df2210",
             "path": "config/farmersdelight-client.json"
           }
         },
@@ -1372,7 +1342,6 @@
           "artifact": {
             "size": 1688,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/farmersdelight-common.json",
-            "MD5": "a447b8eeca34bef4367c12ef023bae82",
             "path": "config/farmersdelight-common.json"
           }
         },
@@ -1383,7 +1352,6 @@
           "artifact": {
             "size": 1615,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/ferritecore.mixin.properties",
-            "MD5": "5c31ce8efe368dbbf5051a46985ffcd2",
             "path": "config/ferritecore.mixin.properties"
           }
         },
@@ -1394,7 +1362,6 @@
           "artifact": {
             "size": 523,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/forgeconfigapiport.toml",
-            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
             "path": "config/forgeconfigapiport.toml"
           }
         },
@@ -1405,7 +1372,6 @@
           "artifact": {
             "size": 983,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/immediatelyfast.json",
-            "MD5": "23782d455399427be51e396d2fdba580",
             "path": "config/immediatelyfast.json"
           }
         },
@@ -1416,7 +1382,6 @@
           "artifact": {
             "size": 1233,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/inventoryessentials-common.toml",
-            "MD5": "e80dfb2f8129d7698503787c816f1697",
             "path": "config/inventoryessentials-common.toml"
           }
         },
@@ -1427,7 +1392,6 @@
           "artifact": {
             "size": 31,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/iris-excluded.json",
-            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
             "path": "config/iris-excluded.json"
           }
         },
@@ -1438,7 +1402,6 @@
           "artifact": {
             "size": 313,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/iris.properties",
-            "MD5": "3c1d5b60bbcff47d127034df80037d0d",
             "path": "config/iris.properties"
           }
         },
@@ -1449,7 +1412,6 @@
           "artifact": {
             "size": 0,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jamlib/known_suspicious_jars.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/jamlib/known_suspicious_jars.txt"
           }
         },
@@ -1460,7 +1422,6 @@
           "artifact": {
             "size": 19,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/blacklist.json",
-            "MD5": "78f1a39821342258f73e542d9ea40e0f",
             "path": "config/jei/blacklist.json"
           }
         },
@@ -1471,7 +1432,6 @@
           "artifact": {
             "size": 289,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "f76c6f8c67e3717df37c2f64c2557815",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -1482,7 +1442,6 @@
           "artifact": {
             "size": 86,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "a297d9637a74577adaed06e68221a8a0",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
         },
@@ -1493,7 +1452,6 @@
           "artifact": {
             "size": 10726,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-client.ini",
-            "MD5": "ca7c7175ea3119d7a9dec8e5773fa838",
             "path": "config/jei/jei-client.ini"
           }
         },
@@ -1504,7 +1462,6 @@
           "artifact": {
             "size": 1362,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-colors.ini",
-            "MD5": "2b1d073ff360c11353f0079b7539cb2e",
             "path": "config/jei/jei-colors.ini"
           }
         },
@@ -1515,7 +1472,6 @@
           "artifact": {
             "size": 1326,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-debug.ini",
-            "MD5": "6b0b7cc1c5064cdf7189ed814c2668bb",
             "path": "config/jei/jei-debug.ini"
           }
         },
@@ -1526,7 +1482,6 @@
           "artifact": {
             "size": 489,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "7346a8c14352eda612ae4765f6758a62",
             "path": "config/jei/jei-mod-id-format.ini"
           }
         },
@@ -1537,7 +1492,6 @@
           "artifact": {
             "size": 423,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "31af520088002f18e65399a92701bcd6",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -1548,7 +1502,6 @@
           "artifact": {
             "size": 303,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/world/local/New_World/lookupHistory.json",
-            "MD5": "b60f5bd1172931f8544a892380e2b7f2",
             "path": "config/jei/world/local/New_World/lookupHistory.json"
           }
         },
@@ -1559,7 +1512,6 @@
           "artifact": {
             "size": 129,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/world/local/New_World__2/lookupHistory.json",
-            "MD5": "f25139a50fcca25949f70fbe209773a2",
             "path": "config/jei/world/local/New_World__2/lookupHistory.json"
           }
         },
@@ -1570,7 +1522,6 @@
           "artifact": {
             "size": 221,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/world/server/Minecraft_Server_d7a9200d/lookupHistory.json",
-            "MD5": "fd13af5579c9c26b3baa0c7d1a6a8686",
             "path": "config/jei/world/server/Minecraft_Server_d7a9200d/lookupHistory.json"
           }
         },
@@ -1581,7 +1532,6 @@
           "artifact": {
             "size": 7029,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/jei/world/server/VR_Ukraine_SMP_993a54b9/lookupHistory.json",
-            "MD5": "e49e5e9108c5e861ce5bb327fe96fd1f",
             "path": "config/jei/world/server/VR_Ukraine_SMP_993a54b9/lookupHistory.json"
           }
         },
@@ -1592,7 +1542,6 @@
           "artifact": {
             "size": 1448,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/lambdynlights.toml",
-            "MD5": "ea1917df0f1c3fd26e782f0d9f5a63cc",
             "path": "config/lambdynlights.toml"
           }
         },
@@ -1603,7 +1552,6 @@
           "artifact": {
             "size": 86,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/letyourfriendeating-settings.json",
-            "MD5": "f208085901b8a0d60b8ba5d0f59ffd9d",
             "path": "config/letyourfriendeating-settings.json"
           }
         },
@@ -1614,7 +1562,6 @@
           "artifact": {
             "size": 284,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/lithostitched.json",
-            "MD5": "345e5fd8f4228a78675c761850e85ba9",
             "path": "config/lithostitched.json"
           }
         },
@@ -1625,7 +1572,6 @@
           "artifact": {
             "size": 66,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/lmft.json",
-            "MD5": "8454fb0618d6203bd43c5f02ae90174f",
             "path": "config/lmft.json"
           }
         },
@@ -1636,7 +1582,6 @@
           "artifact": {
             "size": 920,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/lootintegrations.json",
-            "MD5": "55fdf134b033ed4380f958971beab847",
             "path": "config/lootintegrations.json"
           }
         },
@@ -1647,7 +1592,6 @@
           "artifact": {
             "size": 1729,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/lootr.json",
-            "MD5": "070579ef788aca0c729cf8dc6dd7a001",
             "path": "config/lootr.json"
           }
         },
@@ -1658,7 +1602,6 @@
           "artifact": {
             "size": 3805,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/modernfix-mixins.properties",
-            "MD5": "09f9ac8b847168bf26750946cd831e7a",
             "path": "config/modernfix-mixins.properties"
           }
         },
@@ -1669,7 +1612,6 @@
           "artifact": {
             "size": 840,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/modmenu.json",
-            "MD5": "6f801fc101c146e1c993f05544858c34",
             "path": "config/modmenu.json"
           }
         },
@@ -1680,7 +1622,6 @@
           "artifact": {
             "size": 769,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/moreculling.toml",
-            "MD5": "d57abe3fa7a2155d28700f47a7866253",
             "path": "config/moreculling.toml"
           }
         },
@@ -1691,7 +1632,6 @@
           "artifact": {
             "size": 1163,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/particlerain/config.json",
-            "MD5": "80ddd562fd2e128d071903c964c7d871",
             "path": "config/particlerain/config.json"
           }
         },
@@ -1702,7 +1642,6 @@
           "artifact": {
             "size": 609,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/rightclickharvest.json5",
-            "MD5": "6f1d5d9807c1df57d0495423a49cdde9",
             "path": "config/rightclickharvest.json5"
           }
         },
@@ -1713,7 +1652,6 @@
           "artifact": {
             "size": 226,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/rusticdelight.json",
-            "MD5": "6f4c8db73729a75f20c1cbe9cb84d0b7",
             "path": "config/rusticdelight.json"
           }
         },
@@ -1724,7 +1662,6 @@
           "artifact": {
             "size": 497,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/skinlayers.json",
-            "MD5": "04d6f743e89a6fba20ddef26e3fbef9a",
             "path": "config/skinlayers.json"
           }
         },
@@ -1735,7 +1672,6 @@
           "artifact": {
             "size": 1016,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/skinrestorer/config.json",
-            "MD5": "540c114cbb05f65348b0be0aae202aca",
             "path": "config/skinrestorer/config.json"
           }
         },
@@ -1746,7 +1682,6 @@
           "artifact": {
             "size": 427,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sodium-fingerprint.json",
-            "MD5": "308d44e8dd41c0b3a9e8f8fa8958d918",
             "path": "config/sodium-fingerprint.json"
           }
         },
@@ -1757,7 +1692,6 @@
           "artifact": {
             "size": 258,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
             "path": "config/sodium-mixins.properties"
           }
         },
@@ -1768,7 +1702,6 @@
           "artifact": {
             "size": 732,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sodium-options.json",
-            "MD5": "d259b6b6ec2a0522cdd3a3f03b6bb6f2",
             "path": "config/sodium-options.json"
           }
         },
@@ -1779,7 +1712,6 @@
           "artifact": {
             "size": 4831,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "65630e0f012205fc8b074e2f90ff89c2",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -1790,7 +1722,6 @@
           "artifact": {
             "size": 4713,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "a96fdc43367fe049dff56acbf204a79d",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -1801,7 +1732,6 @@
           "artifact": {
             "size": 5104,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/soundphysics.properties",
-            "MD5": "1f6041a6026f08f1d6088437da611263",
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
         },
@@ -1812,7 +1742,6 @@
           "artifact": {
             "size": 72802,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/sound_physics_remastered/sound_rates.properties",
-            "MD5": "c7b10fc52f58be81d08010700530835e",
             "path": "config/sound_physics_remastered/sound_rates.properties"
           }
         },
@@ -1823,7 +1752,6 @@
           "artifact": {
             "size": 335,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/talk_balloons.json5",
-            "MD5": "d860b42e50e06a83eff46f872b9ed97a",
             "path": "config/talk_balloons.json5"
           }
         },
@@ -1834,7 +1762,6 @@
           "artifact": {
             "size": 236,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/terralith.json",
-            "MD5": "c896fd90ee07b80fbea62afbd06deb26",
             "path": "config/terralith.json"
           }
         },
@@ -1845,7 +1772,6 @@
           "artifact": {
             "size": 3051,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/towns_and_towers/structure_enable_or_disable_new.json5",
-            "MD5": "fbccc75e368d3ee378b2415421c0abde",
             "path": "config/towns_and_towers/structure_enable_or_disable_new.json5"
           }
         },
@@ -1856,7 +1782,6 @@
           "artifact": {
             "size": 1520,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/towns_and_towers/structure_rarity_new.json5",
-            "MD5": "ed94246ff48f8f7f92e7d77c33c3a95f",
             "path": "config/towns_and_towers/structure_rarity_new.json5"
           }
         },
@@ -1867,7 +1792,6 @@
           "artifact": {
             "size": 62,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/transition.json",
-            "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
             "path": "config/transition.json"
           }
         },
@@ -1888,7 +1812,6 @@
           "artifact": {
             "size": 197,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/travelersbackpack-common.toml",
-            "MD5": "4051d354d72650dcd84d108894bc12c1",
             "path": "config/travelersbackpack-common.toml"
           }
         },
@@ -1899,7 +1822,6 @@
           "artifact": {
             "size": 11613,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/travelersbackpack-server.toml",
-            "MD5": "c28367a970b617bf83a279842e084e8c",
             "path": "config/travelersbackpack-server.toml"
           }
         },
@@ -1910,7 +1832,6 @@
           "artifact": {
             "size": 47,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/trender.json",
-            "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
             "path": "config/trender.json"
           }
         },
@@ -1921,7 +1842,6 @@
           "artifact": {
             "size": 1690,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/vanilla_structures/placement_structure_config.json5",
-            "MD5": "c26bb09ed1ad04c12e6f37313274d1cc",
             "path": "config/vanilla_structures/placement_structure_config.json5"
           }
         },
@@ -1932,7 +1852,6 @@
           "artifact": {
             "size": 1423,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/vanilla_structures/toggle_structure_config.json5",
-            "MD5": "672f5f27e8132d7b4499765c26625c83",
             "path": "config/vanilla_structures/toggle_structure_config.json5"
           }
         },
@@ -1943,7 +1862,6 @@
           "artifact": {
             "size": 388,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/vcinteraction/vcinteraction.properties",
-            "MD5": "af4330f80e7264f35e8e406bd585618c",
             "path": "config/vcinteraction/vcinteraction.properties"
           }
         },
@@ -1954,7 +1872,6 @@
           "artifact": {
             "size": 8623,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/vivecraft-client-config.json",
-            "MD5": "38deb2cb034831046280673544c03d2b",
             "path": "config/vivecraft-client-config.json"
           }
         },
@@ -1965,7 +1882,6 @@
           "artifact": {
             "size": 9668,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/vivecraft-server-config.toml",
-            "MD5": "2e6b884edd381d14ef4400d94c247ab1",
             "path": "config/vivecraft-server-config.toml"
           }
         },
@@ -1976,7 +1892,6 @@
           "artifact": {
             "size": 46,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
             "path": "config/voicechat/category-volumes.properties"
           }
         },
@@ -1987,7 +1902,6 @@
           "artifact": {
             "size": 44,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
             "path": "config/voicechat/player-volumes.properties"
           }
         },
@@ -1998,7 +1912,6 @@
           "artifact": {
             "size": 1182,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "path": "config/voicechat/translations.properties"
           }
         },
@@ -2009,7 +1922,6 @@
           "artifact": {
             "size": 2,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/username-cache.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
             "path": "config/voicechat/username-cache.json"
           }
         },
@@ -2020,7 +1932,6 @@
           "artifact": {
             "size": 5079,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/voicechat-client.properties",
-            "MD5": "61eb0b80374c186a6465b31e329d7192",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -2031,7 +1942,6 @@
           "artifact": {
             "size": 2839,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voicechat/voicechat-server.properties",
-            "MD5": "aaca2d30ce619d1cfc2e34b50ee6dc68",
             "path": "config/voicechat/voicechat-server.properties"
           }
         },
@@ -2042,7 +1952,6 @@
           "artifact": {
             "size": 240,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voxy-config.json",
-            "MD5": "c061ca4575e6e0ce71d8aade1a1a7b4b",
             "path": "config/voxy-config.json"
           }
         },
@@ -2053,7 +1962,6 @@
           "artifact": {
             "size": 124,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voxyserver-client.json",
-            "MD5": "729ebf27c7d7c5cc1a5c2f714f4f563a",
             "path": "config/voxyserver-client.json"
           }
         },
@@ -2064,7 +1972,6 @@
           "artifact": {
             "size": 295,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/voxyserver.json",
-            "MD5": "0187fa28b8e0b5ea531b5d0cba3ab898",
             "path": "config/voxyserver.json"
           }
         },
@@ -2075,7 +1982,6 @@
           "artifact": {
             "size": 26,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/client.cfg",
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
         },
@@ -2086,7 +1992,6 @@
           "artifact": {
             "size": 236,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/common.cfg",
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
         },
@@ -2097,7 +2002,6 @@
           "artifact": {
             "size": 121,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/profiles/default.cfg",
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
         },
@@ -2108,7 +2012,6 @@
           "artifact": {
             "size": 75,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/lib/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
         },
@@ -2119,7 +2022,6 @@
           "artifact": {
             "size": 235,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/client.cfg",
-            "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
             "path": "config/xaero/minimap/client.cfg"
           }
         },
@@ -2130,7 +2032,6 @@
           "artifact": {
             "size": 147,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/common.cfg",
-            "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
         },
@@ -2141,7 +2042,6 @@
           "artifact": {
             "size": 5531,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/default_radar_categories_client.json",
-            "MD5": "6aa0c1720795d59a3cd21e3becba9685",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
         },
@@ -2152,7 +2052,6 @@
           "artifact": {
             "size": 4597,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/default_radar_categories_server.json",
-            "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
         },
@@ -2163,7 +2062,6 @@
           "artifact": {
             "size": 3657,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "5d54345c6a4972812932f5ed0b42946a",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
         },
@@ -2174,7 +2072,6 @@
           "artifact": {
             "size": 684,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-            "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
         },
@@ -2185,7 +2082,6 @@
           "artifact": {
             "size": 75,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/minimap/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
         },
@@ -2196,7 +2092,6 @@
           "artifact": {
             "size": 466,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/client.cfg",
-            "MD5": "b5d4c155d1c2212ad7f51b89ca67fd80",
             "path": "config/xaero/world-map/client.cfg"
           }
         },
@@ -2207,7 +2102,6 @@
           "artifact": {
             "size": 141,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/common.cfg",
-            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
             "path": "config/xaero/world-map/common.cfg"
           }
         },
@@ -2218,7 +2112,6 @@
           "artifact": {
             "size": 1379,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/profiles/default.cfg",
-            "MD5": "f4151e7df2284ff2ab24bef0ca2365c2",
             "path": "config/xaero/world-map/profiles/default.cfg"
           }
         },
@@ -2229,7 +2122,6 @@
           "artifact": {
             "size": 75,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaero/world-map/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/world-map/server_profiles/default.cfg"
           }
         },
@@ -2240,7 +2132,6 @@
           "artifact": {
             "size": 123,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaerohud.txt",
-            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
             "path": "config/xaerohud.txt"
           }
         },
@@ -2251,7 +2142,6 @@
           "artifact": {
             "size": 0,
             "url": "https://helios.vr-ukraine.com/servers/VRUkraineSMP-1.21.11/files/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
           }
         },
